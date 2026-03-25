@@ -64,6 +64,11 @@ a {
 	font-family: "Poppins", sans-serif;
 }
 
+a:hover {
+	background-color: #8233E8;
+	color: #0E1014;
+}
+
 section img {
 	display: block;
 	width: 600px;
